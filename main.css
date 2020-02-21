@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://66.media.tumblr.com/71054dbf624f91d827838294e4e84fa6/tumblr_ozts1h66cn1upvbufo1_540.gifv");
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    text-align: center;
+    background-color: black;
+}
+.main{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    position: fixed;
+}
